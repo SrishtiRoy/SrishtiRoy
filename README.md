@@ -11,12 +11,6 @@ Passionate mobile developer with a strong focus on building high-quality applica
 | <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="80" height="80"/><br>SwiftUI | <img src="https://developer.apple.com/assets/elements/icons/swift/swift-96x96_2x.png" width="80" height="80"/><br>Swift | | |
 
 
-# 🚀 Kotlin Multiplatform Project
-<a href="https://github.com/yassineAbou/LLMS"><img src="https://imgur.com/mVICjDJ.png" width="125" height = "125"></a>
-<br>Discover the power of AI with our Kotlin Multiplatform app. Choose from the latest open-source text and image models to boost your creativity. Pick the model that fits you, create unique texts or images. and keep everything safe and in sync across your devices.
-
-# 📱 My apps
-<a href="https://github.com/yassineAbou/Clock"><img src="https://i.imgur.com/6JQDkCX.png" width="125" height = "125"></a> <a href="https://github.com/yassineAbou/Weather"><img src="https://i.imgur.com/RSSAkFv.png" width="125" height = "125"></a>  <a href="https://github.com/yassineAbou/Calculator"><img src="https://i.imgur.com/hVfvB0H.png" width="125" height = "125"></a>   
 
 # 🤝 Connect with me
 - Email:sreeshtyray@gmail.com
